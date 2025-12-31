@@ -1,0 +1,58 @@
+NGX License
+
+Copyright (c) [2025] [A.L. Seppala]
+
+This software and its source code (the “Software”) are licensed under the
+following terms.
+
+1. Definitions
+
+“Contributor” means any individual or entity that has made a non-trivial
+contribution of source code to this repository which has been accepted and
+merged.
+
+“Target Platform” means the Nintendo Game Boy Advance (GBA).
+
+2. Rights Granted to Contributors (MIT-Equivalent Grant)
+
+If you are a Contributor, you are hereby granted a perpetual, worldwide,
+royalty-free, non-exclusive license to:
+
+- Use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software,
+- Including your own contributions and all other code in this repository,
+- For any purpose, commercial or non-commercial,
+
+without payment, royalties, or the need for additional permission.
+
+These rights are intended to be equivalent in scope and freedom to the MIT
+License.
+
+3. Attribution Requirements
+
+If the Software is:
+- Used primarily on the Target Platform (GBA), and
+- Retains its identity as this engine or a largely intact derivative,
+
+then attribution to this project and its author(s) is required in a visible
+form (e.g., documentation, credits screen, or repository README).
+
+If the Software is substantially modified, partially reused, or ported to
+another platform, attribution is optional and left to the user’s discretion.
+
+4. Non-Contributors
+
+If you are not a Contributor, no rights are granted under this license by
+default.
+
+Non-Contributors must obtain an explicit license from the copyright holder
+before using, copying, modifying, or distributing the Software.
+
+At the time of writing, such licenses are granted free of charge upon request,
+but this is not guaranteed and may change in the future.
+
+5. No Warranty
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
