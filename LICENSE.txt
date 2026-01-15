@@ -1,4 +1,4 @@
-NGX License
+NGX License v1.01
 
 Copyright (c) [2025] [A.L. Seppala]
 
@@ -15,24 +15,31 @@ merged.
 
 2. Rights Granted to Contributors (MIT-Equivalent Grant)
 
-If you are a Contributor, you are hereby granted a perpetual, worldwide,
-royalty-free, non-exclusive license to:
+If you are a Contributor, you are granted a perpetual, worldwide,
+royalty-free, non-exclusive license to use, modify, and distribute
+the Software for personal or commercial purposes, including creating
+and selling games using the engine, without additional permission.
 
-- Use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-  copies of the Software,
-- Including your own contributions and all other code in this repository,
-- For any purpose, commercial or non-commercial,
+On platforms other than the Target Platform (GBA), Contributors may
+freely sublicense, sell, or distribute derivative works without restriction.
 
-without payment, royalties, or the need for additional permission.
+On the Target Platform (GBA) only:
+- Any derivative work that is largely intact or clearly recognizable as this engine
+may not be sublicensed, sold, or licensed as an engine without the joint permission
+of the copyright holders of the parent project and any fork contributors.
+- Forks of forks are not allowed unless contributing back to the original fork
+or the top-level repository.
+- Contributors retain copyright in their own code, but the copyright holders
+retain exclusive authority over licensing the engine.
 
-These rights are intended to be equivalent in scope and freedom to the MIT
-License.
+Each Contributor grants the copyright holder(s) a perpetual, worldwide, royalty-free
+license to use, modify, relicense, and distribute their contributions under any terms.
 
 3. Attribution Requirements
 
 If the Software is:
 - Used primarily on the Target Platform (GBA), and
-- Retains its identity as this engine or a largely intact derivative,
+- Retains its identity as this engine or a clearly recognizable derivative,
 
 then attribution to this project and its author(s) is required in a visible
 form (e.g., documentation, credits screen, or repository README).
@@ -42,11 +49,15 @@ another platform, attribution is optional and left to the user’s discretion.
 
 4. Non-Contributors
 
-If you are not a Contributor, no rights are granted under this license by
-default.
+If you are not a Contributor, no rights are granted under this license by default.
 
-Non-Contributors must obtain an explicit license from the copyright holder
-before using, copying, modifying, or distributing the Software.
+Non-Contributors must obtain an explicit license from the copyright holder before
+using, copying, modifying, or distributing the Software.
+
+Limited Exception.
+Non-Contributors are granted a limited, non-transferable, non-sublicensable license
+to view, compile, and modify the Software solely for evaluation and submitting
+contributions for inclusion in the repository.
 
 At the time of writing, such licenses are granted free of charge upon request,
 but this is not guaranteed and may change in the future.
