@@ -59,7 +59,7 @@ Non-Contributors are granted a limited, non-transferable, non-sublicensable lice
 to view, compile, and modify the Software solely for evaluation and submitting
 contributions for inclusion in the repository.
 
-At the time of writing, such licenses are granted free of charge upon request,
+At the time of writing, usage licenses are granted free of charge upon request,
 but this is not guaranteed and may change in the future.
 
 5. No Warranty
